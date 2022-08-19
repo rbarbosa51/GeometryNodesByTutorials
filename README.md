@@ -1,4 +1,4 @@
-# GeometryNodesByTutorials
+# Geometry Nodes 3.2 By Tutorials
 Repository for the upcoming book: Blender 3.2 Geometry Nodes by Tutorials. 
 More to follow
 
