@@ -1,4 +1,4 @@
-# Geometry Nodes 3.3 By Tutorials
+# Geometry Nodes 3.3 by Tutorials
 **A tutorial based approach to learning the Geometry Nodes System.**
 
 This is the repository for the book: Blender 3.3 Geometry Nodes by Tutorials.    ->>>>> (Link)
