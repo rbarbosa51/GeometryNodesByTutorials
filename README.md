@@ -2,7 +2,7 @@
 **A tutorial based approach to learning Blender's Geometry Nodes.**
 
 This is the repository for the book: Blender 3.3 Geometry Nodes by Tutorials.    
-Ebook is now available: [Amazon Kindle Ebook](https://www.amazon.com/dp/B0BFG6GYVN)
+The Paperback and Ebook are now available: [Amazon](https://www.amazon.com/dp/B0BFG6GYVN)
 ## **Chapters** 1, 17, 19, 21, and 31 are now available as free tutorial demos.
 
 ## Who this book is for
